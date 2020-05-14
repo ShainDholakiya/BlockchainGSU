@@ -16,8 +16,9 @@ const AboutUsPage = () => (
             <div className="HeroGroup">
               <h1>About Us</h1>
               <p>We do a whole lot of cool stuff. But this is really just a paragraph to simulate what our real about us would look like.</p>
-              <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faTwitter} size="2x"/></a>
-              <a target="_blank" href="https://www.instagram.com/enigsu/?hl=en"><FontAwesomeIcon icon={faInstagram} size="2x"/></a>
+              <a target="_blank" href="https://www.instagram.com/enigsu/?hl=en"><FontAwesomeIcon icon={faInstagram} size="4x"/></a>
+              <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faYoutube} size="4x"/></a>
+              <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faTwitter} size="4x"/></a>
             </div>
           </Col>
           <Col sm={3} md={5} lg={{span: 6, offset: 1}}>

@@ -16,7 +16,7 @@ const IndexPage = () => (
               <h1>Blockchain GSU</h1>
               <p>Georgia State University’s Blockchain club providing the lastest and greatest information on all things blockchain.</p>
               <span></span>
-              <Link to="/page-2/">Continue</Link>
+              <Link to="/page-2/" className="continue">Continue</Link>
             </div>
           </Col>
         </Row>

@@ -79,7 +79,7 @@ a {
   margin-bottom: 0;
 }
 
-.Hero a {
+.Hero .continue {
   display: inline-block;
   margin-top: 30px;
   font-size:18px;
@@ -94,7 +94,7 @@ a {
   transition: all 0.3s ease 0s;
 }
 
-.Hero a:hover {
+.Hero .continue:hover {
   background-color: #2EE59D;
   box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
   color: #fff;
@@ -102,27 +102,23 @@ a {
   text-decoration: none;
 }
 
-
-.Hero a {
-  display: inline-block;
-  margin-top: 30px;
-  font-size:18px;
-  font-weight:400;
-  color:white;
-  text-transform:upper-case;
-  background: rgba(0, 0, 0, 0.7);
-  padding:18px 89px;
-  border: 1px solid rgba(255,255,255, 0.25);
-  border-radius: 29.5px;
-  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease 0s;
-}
-
 /* About Us Page */
 .Hero-AboutUs {
   background: url('../images/BG-Content.png');
   background-size: cover;
   background-position: center;
+}
+
+.Hero-AboutUs a:first-of-type {
+  padding-left: 6rem;
+}
+
+.Hero-AboutUs a {
+  padding-left: 2rem;
+}
+
+.Hero-AboutUs a:hover {
+  color: #293a80 !important;
 }
 
 .about-us-content {
@@ -137,5 +133,28 @@ a {
 
 .about-us-content p {
   padding-top: 1rem;
+  font-size: 1rem;
   line-height: normal;
+}
+
+/* Resources Page */
+.Hero-Resources {
+  background: url('../images/BG-Content.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.Resources h1 {
+  font-size: 65px;
+  padding-top: 4rem;
+  margin: auto auto auto 46px;
+}
+
+.resource-icon-row {
+  padding: 2rem 0rem 4rem 0rem;
+}
+
+.resource-icons {
+  width: 250px;
+  background-color: slategrey;
 }

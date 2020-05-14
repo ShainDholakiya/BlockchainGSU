@@ -20,8 +20,9 @@ const Header = ({ siteTitle }) => (
         </Nav>
         <Nav className="nav-icons">
           <a href="https://gsu.campuslabs.com/engage/organization/bgsu"><Button className="header-button">Join</Button></a>
-          <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faTwitter} size="2x"/></a>
           <a target="_blank" href="https://www.instagram.com/enigsu/?hl=en"><FontAwesomeIcon icon={faInstagram} size="2x"/></a>
+          <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faYoutube} size="2x"/></a>
+          <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faTwitter} size="2x"/></a>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
