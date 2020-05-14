@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import "../components/layout.css"
 import { Row, Col } from "react-bootstrap";
 
-const IndexPage = () => (
+const ResourcesPage = () => (
   <Layout>
     <SEO title="Home" />
       <div className="Hero">
@@ -24,4 +24,4 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default IndexPage
+export default ResourcesPage

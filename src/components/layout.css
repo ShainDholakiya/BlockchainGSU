@@ -61,7 +61,7 @@ a {
 .HeroGroup {
   margin: auto auto auto 46px;
   padding: 294px 0;
-  max-width: 562px;
+  /* max-width: 562px; */
   text-align: left;
 }
 
@@ -100,4 +100,42 @@ a {
   color: #fff;
   transform: translateY(-7px);
   text-decoration: none;
+}
+
+
+.Hero a {
+  display: inline-block;
+  margin-top: 30px;
+  font-size:18px;
+  font-weight:400;
+  color:white;
+  text-transform:upper-case;
+  background: rgba(0, 0, 0, 0.7);
+  padding:18px 89px;
+  border: 1px solid rgba(255,255,255, 0.25);
+  border-radius: 29.5px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+}
+
+/* About Us Page */
+.Hero-AboutUs {
+  background: url('../images/BG-Content.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.about-us-content {
+  padding-top: 8rem;
+  font-weight: lighter;
+}
+
+.about-us-content h3 {
+  font-weight: lighter;
+  font-size: 1rem;
+}
+
+.about-us-content p {
+  padding-top: 1rem;
+  line-height: normal;
 }
