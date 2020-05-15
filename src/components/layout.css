@@ -158,3 +158,10 @@ a {
   width: 250px;
   background-color: slategrey;
 }
+
+/* Content Page */
+.Hero-Content {
+  background: url('../images/BG-Content.png');
+  background-size: cover;
+  background-position: center;
+}
