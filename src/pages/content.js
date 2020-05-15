@@ -12,7 +12,7 @@ const ContentPage = () => (
       <div className="Hero-Content">
         <Container>
           <Row className="content-card-row">
-            <Col sm={2} md={5} lg={8} className="content-card">
+            <Col sm={2} md={5} lg={8} className="content-card-main">
                 {/*these are props need to be created*/}
                 {/*articleTitle,  articleBG , articleAuthor  articleTime ,  articleAuthor, authorIMG*/}
 
@@ -28,7 +28,7 @@ const ContentPage = () => (
 
         </Row>
 
-        <Row>
+        <Row className="content-card-row">
             <Col className="content-card">
                 
             </Col>
