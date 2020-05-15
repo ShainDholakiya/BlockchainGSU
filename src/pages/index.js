@@ -14,7 +14,7 @@ const IndexPage = () => (
           <Col sm={9} md={7} lg={5}>
             <div className="HeroGroup">
               <h1>Blockchain GSU</h1>
-              <p>Georgia State University’s Blockchain club providing the lastest and greatest information on all things blockchain.</p>
+              <p>Georgia State University’s Blockchain club providing the latest and greatest information on all things blockchain.</p>
               <span></span>
               <Link to="/page-2/" className="continue">Continue</Link>
             </div>
