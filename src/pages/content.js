@@ -77,7 +77,7 @@ const ContentPage = () => (
                             <Card.Text>
                             Article Author
                             </Card.Text>
-                            <Card.Text>Articl time</Card.Text>
+                            <Card.Text>Articlp time</Card.Text>
                         </Card.ImgOverlay>
                 </Card>
             </Col>
