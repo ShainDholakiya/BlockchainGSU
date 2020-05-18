@@ -17,7 +17,7 @@ a {
 }
 
 .header-button {
-  margin-left:200px;
+  /* margin-left:200px; */
   padding: 6px 29px;
   background: #293a80;
   border-radius: 18px;
@@ -109,6 +109,10 @@ a {
   background-position: center;
 }
 
+.Hero-AboutUs .description {
+  padding-bottom: 3rem;
+}
+
 .Hero-AboutUs a:first-of-type {
   padding-left: 6rem;
 }
@@ -120,6 +124,10 @@ a {
 .Hero-AboutUs a:hover {
   color: #293a80 !important;
 }
+
+/* .about-us-section-div {
+  margin-left: 4rem;
+} */
 
 .about-us-content {
   padding-top: 8rem;
@@ -148,13 +156,11 @@ a {
   font-size: 65px;
   padding-top: 4rem;
   margin: auto auto auto 46px;
-}
-
-.resource-icon-row {
-  padding: 2rem 0rem 4rem 0rem;
+  padding-bottom: 4rem;
 }
 
 .resource-icons {
-  width: 250px;
-  background-color: slategrey;
+  width: 15rem;
+  /* background-color: slategrey; */
+  margin-bottom: 4rem;
 }
