@@ -21,7 +21,7 @@ const AboutUsPage = () => (
               <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faTwitter} size="4x"/></a>
             </div>
           </Col>
-          <Col sm={12} md={12} lg={{span: 6, offset: 1}}>
+          <Col xs={{span: 7, offset: 1}} sm={{span: 8, offset: 1}} md={{span: 10, offset: 1}} lg={{span: 6, offset: 1}}>
               <Row>
                 <Col sm={10} md={10} lg={8}>
                     <div className="about-us-content">
