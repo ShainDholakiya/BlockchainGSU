@@ -168,6 +168,46 @@ a {
 }
 
 .Content-Header {
+  padding-top: 8rem;
 
+}
+
+.content-heading {
+  padding-bottom: 1.5rem;
+}
+
+.Content h1 {
+  font-size: 2.369em;
+  padding-top: 4rem;
+  margin:102px auto auto;
+}
+
+.content-card-row {
+  padding-bottom:1.5rem;
+}
+
+.content-card {
+  background: none;
+  padding-bottom: 1.5rem;
+  border: none;
+}
+.card-img {
+}
+
+.content-card-title {
+  font-weight:Semi-Bold;
+  font-size:18px;
+}
+
+.card-title {
+  padding-top:110px;
+  font-size:1.333em;
+}
+.card-body {
+  padding-left: 0;
+}
+
+.card-text {
+  padding:0;
 
 }
