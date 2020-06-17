@@ -26,9 +26,12 @@ const ContentPage = () => (
                 <Card className="bg-dark article-icons">
                     <Card.Img src={ArticlePic1} alt="Card image" />
                     <Card.ImgOverlay>
-                        <Card.Title>Article Title</Card.Title>
-                        <Card.Text>Article Author</Card.Text>
-                        <Card.Text>Article time</Card.Text>
+                        <div className="card-description">
+                            <Card.Text>
+                                <h3>What is Crypto Currency?</h3>
+                                <p>By: Jeraldo</p>
+                            </Card.Text>
+                        </div>
                     </Card.ImgOverlay>
                 </Card>
             </Col>
@@ -36,9 +39,12 @@ const ContentPage = () => (
                 <Card className="bg-dark article-icons">
                     <Card.Img src={ArticlePic1} alt="Card image" />
                     <Card.ImgOverlay>
-                        <Card.Title>Article Title</Card.Title>
-                        <Card.Text>Article Author</Card.Text>
-                        <Card.Text>Article time</Card.Text>
+                        <div className="card-description">
+                            <Card.Text>
+                                <h3>How to Read the Trends</h3>
+                                <p>By: Tariq Waseem</p>
+                            </Card.Text>
+                        </div>
                     </Card.ImgOverlay>
                 </Card>
             </Col>
@@ -46,9 +52,12 @@ const ContentPage = () => (
                 <Card className="bg-dark article-icons">
                     <Card.Img src={ArticlePic1} alt="Card image" />
                     <Card.ImgOverlay>
-                        <Card.Title>Article Title</Card.Title>
-                        <Card.Text>Article Author</Card.Text>
-                        <Card.Text>Article time</Card.Text>
+                        <div className="card-description">
+                            <Card.Text>
+                                <h3>Getting Money the Right Way</h3>
+                                <p>By: Ryan Sims</p>
+                            </Card.Text>
+                        </div>
                     </Card.ImgOverlay>
                 </Card>
             </Col>
@@ -56,9 +65,12 @@ const ContentPage = () => (
                 <Card className="bg-dark article-icons">
                     <Card.Img src={ArticlePic1} alt="Card image" />
                     <Card.ImgOverlay>
-                        <Card.Title>Article Title</Card.Title>
-                        <Card.Text>Article Author</Card.Text>
-                        <Card.Text>Articlp time</Card.Text>
+                        <div className="card-description">
+                            <Card.Text>
+                                <h3>Getting Money the Right Way</h3>
+                                <p>By: Ryan Sims</p>
+                            </Card.Text>
+                        </div>
                     </Card.ImgOverlay>
                 </Card>
             </Col>
@@ -66,9 +78,12 @@ const ContentPage = () => (
                 <Card className="bg-dark article-icons">
                     <Card.Img src={ArticlePic1} alt="Card image" />
                     <Card.ImgOverlay>
-                        <Card.Title>Article Title</Card.Title>
-                        <Card.Text>Article Author</Card.Text>
-                        <Card.Text>Article time</Card.Text>
+                        <div className="card-description">
+                            <Card.Text>
+                                <h3>Getting Money the Right Way</h3>
+                                <p>By: Ryan Sims</p>
+                            </Card.Text>
+                        </div>
                     </Card.ImgOverlay>
                 </Card>
             </Col>
