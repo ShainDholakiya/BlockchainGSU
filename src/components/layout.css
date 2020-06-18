@@ -188,3 +188,16 @@ a {
 /* .card-description-background {
   background: #3C3C3C;
 } */
+
+
+/* Calendar Page */
+.Calendar h1 {
+  font-size: 65px;
+  padding-top: 4rem;
+  margin: auto auto auto 46px;
+  /* padding-bottom: 2rem; */
+}
+
+.calendar-meeting-day {
+  padding-top: 1.5rem;
+}
