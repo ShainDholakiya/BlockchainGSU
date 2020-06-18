@@ -20,7 +20,7 @@ const ContentPage = () => (
             </div>
           </Col>
         </Row>
-        <Container >
+        <Container>
           <Row className="content-card-row">
             <Col xs={12} sm={12} md={12} lg={6}>
                 <Card className="bg-dark article-icons">

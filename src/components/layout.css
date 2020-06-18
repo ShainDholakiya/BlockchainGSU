@@ -55,7 +55,7 @@ a {
 }
 
 .Hero {
-  height: 100vh;
+  height: 100%;
   width: 100%;
   background: url('../images/bg.png');
   background-size: cover;
@@ -139,6 +139,10 @@ a {
   font-weight: lighter;
 }
 
+.about-us-content-last {
+  padding-bottom: 4rem;
+}
+
 .about-us-content h3 {
   font-weight: lighter;
   font-size: 1rem;
@@ -168,6 +172,10 @@ a {
   width: 15rem;
   /* background-color: slategrey; */
   margin-bottom: 4rem;
+}
+
+.resources-container {
+  padding-bottom: 4rem;
 }
 
 /* Content Page */

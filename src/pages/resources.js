@@ -15,7 +15,7 @@ import discord from "../images/discord-icon.png"
 
 const ResourcesPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Resources" />
       <div className="Hero Hero-Resources">
         <Row>
           <Col sm={{span: 8, ofsset: 4}} md={{span: 7, offset: 5}} lg={{span: 6, offset: 6}}>
@@ -24,7 +24,7 @@ const ResourcesPage = () => (
             </div>
           </Col>
         </Row>
-        <Container>
+        <Container className="resources-container">
           <Row>
             <Col xs={6} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://hackernoon.com/">

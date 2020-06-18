@@ -54,7 +54,7 @@ const CalendarPage = () => (
                     </div>
                 </Col>
               </Row>
-              <Row className="about-us-content">
+              <Row className="about-us-content about-us-content-last">
                 <Col sm={10} md={10} lg={8}>
                     <div>
                         <h2>General Body Meeting</h2>

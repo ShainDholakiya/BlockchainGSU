@@ -9,7 +9,7 @@ import { Row, Col, Container } from "react-bootstrap";
 
 const AboutUsPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="About Us" />
       <div className="Hero-AboutUs Hero">
         <Row>
           <Col sm={12} md={7} lg={5}>
@@ -40,7 +40,7 @@ const AboutUsPage = () => (
                   </div>
                 </Col>
               </Row>
-              <Row>
+              <Row className="about-us-content-last">
                 <Col sm={10} md={10} lg={8}>
                   <div className="about-us-content">
                       <h2>Deralyn Swiley</h2>
