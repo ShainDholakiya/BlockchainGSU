@@ -24,7 +24,7 @@ const ResourcesPage = () => (
             </div>
           </Col>
         </Row>
-        <Container className="resources-container">
+        <Container>
           <Row>
             <Col xs={6} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://hackernoon.com/">
