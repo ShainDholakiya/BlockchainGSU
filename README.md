@@ -3,13 +3,13 @@
 
 ## Technologies Featured:
 
-![Image of React logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Logo" width="400"/>
 
-![Image of Gatbsy logo](https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png)
+<img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" alt="Gatsby Logo" width="400"/>
 
-![Image of Graph logo](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/06/graphql.png?fit=600%2C600&ssl=1)
+<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2019/06/graphql.png?fit=600%2C600&ssl=1" alt="Graph Logo" width="400"/>
 
-![Image of Contentful logo](https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/18395234441536208099-256.png)
+<img src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/18395234441536208099-256.png" alt="Contentful Logo" width="400"/>
 
 ## Deploy
 
