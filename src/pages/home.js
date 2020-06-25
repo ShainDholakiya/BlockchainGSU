@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import "../components/layout.css"
-import { Row, Col } from "react-bootstrap";
+import { Row, Col, Button } from "react-bootstrap";
 
 const HomePage = () => (
   <Layout>
@@ -16,7 +16,7 @@ const HomePage = () => (
               <h1>Blockchain GSU</h1>
               <p>Georgia State University’s Blockchain club providing the lastest and greatest information on all things blockchain.</p>
               <span></span>
-              <Link to="/page-2/" className="continue">Continue</Link>
+              <a target="_blank" href="https://pin.gsu.edu/organization/bgsu" className="continue">Join</a>
             </div>
           </Col>
         </Row>

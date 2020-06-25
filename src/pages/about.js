@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faInstagram, faTwitter, faYoutube} from '@fortawesome/free-brands-svg-icons'
+import { faInstagram, faTwitter, faYoutube, faLinkedinIn} from '@fortawesome/free-brands-svg-icons'
 import "../components/layout.css"
 import { Row, Col, Container } from "react-bootstrap";
 
@@ -16,7 +16,8 @@ const AboutUsPage = () => (
             <div className="HeroGroup">
               <h1>About Us</h1>
               <p className="description">We do a whole lot of cool stuff. But this is really just a paragraph to simulate what our real about us would look like.</p>
-              <a target="_blank" href="https://www.instagram.com/enigsu/?hl=en"><FontAwesomeIcon icon={faInstagram} size="4x"/></a>
+              <a target="_blank" href="https://www.linkedin.com/company/blockchaingsu/about/"><FontAwesomeIcon icon={faLinkedinIn} size="4x"/></a>
+              <a target="_blank" href="https://www.instagram.com/gsublockchain/"><FontAwesomeIcon icon={faInstagram} size="4x"/></a>
               <a target="_blank" href="https://www.youtube.com/channel/UCUqBF-dLJDR2oe0GeicKVnA"><FontAwesomeIcon icon={faYoutube} size="4x"/></a>
               <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faTwitter} size="4x"/></a>
             </div>

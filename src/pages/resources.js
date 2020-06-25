@@ -41,7 +41,7 @@ const ResourcesPage = () => (
                 </a>
             </Col>
             <Col xs={6} sm={6} md={6} lg={4}>
-                <a target="_blank" href="https://youtube.com/">
+                <a target="_blank" href="https://www.youtube.com/channel/UCUqBF-dLJDR2oe0GeicKVnA">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={youtube} />
                     </Card>
