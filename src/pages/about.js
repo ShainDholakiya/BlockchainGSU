@@ -17,7 +17,7 @@ const AboutUsPage = () => (
               <h1>About Us</h1>
               <p className="description">We do a whole lot of cool stuff. But this is really just a paragraph to simulate what our real about us would look like.</p>
               <a target="_blank" href="https://www.instagram.com/enigsu/?hl=en"><FontAwesomeIcon icon={faInstagram} size="4x"/></a>
-              <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faYoutube} size="4x"/></a>
+              <a target="_blank" href="https://www.youtube.com/channel/UCUqBF-dLJDR2oe0GeicKVnA"><FontAwesomeIcon icon={faYoutube} size="4x"/></a>
               <a target="_blank" href="https://twitter.com/blockchaingsu"><FontAwesomeIcon icon={faTwitter} size="4x"/></a>
             </div>
           </Col>
