@@ -1,7 +1,5 @@
 # BlockchainGSU Organization Website
-![](https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Georgia_State_Athletics_logo.svg/1200px-Georgia_State_Athletics_logo.svg.png)
-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Georgia_State_Athletics_logo.svg/1200px-Georgia_State_Athletics_logo.svg.png" alt="React Logo" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Georgia_State_Athletics_logo.svg/1200px-Georgia_State_Athletics_logo.svg.png" alt="GSU Logo" width="400"/>
 
 ## Technologies Featured:
 
