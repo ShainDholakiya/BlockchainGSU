@@ -27,26 +27,49 @@ const AboutUsPage = () => (
                 <Col sm={10} md={10} lg={8}>
                     <div className="about-us-content">
                         <h2>Tariq Waseem</h2>
-                        <h3>BCGSU</h3>
-                        <p>This guy is cool as heck really awesome chill guy. Lowkey weird sometimes but he cool.</p>
+                        <h3>Founder and CEO</h3>
+                        {/* <h3>Class of 2021</h3> */}
+                        <p>Tariq is studying Interdisciplinary Studies in Media Entrepreneurship with a focus in Project Management.</p>
                     </div>
                 </Col>
               </Row>
               <Row>
                 <Col sm={10} md={10} lg={8}>
                   <div className="about-us-content">
-                      <h2>Ryan Sims</h2>
-                      <h3>BCGSU</h3>
-                      <p>This guy is also cool as heck reall chill guy.</p>
+                      <h2>Deralyn Swiley</h2>
+                      <h3>CIO</h3>
+                      {/* <h3>Class of 2023</h3> */}
+                      <p>Deralyn is studying Marketing with a focus in Entertainment Marketing, Management, and Entrepreneurship.</p>
+                  </div>
+                </Col>
+              </Row>
+              <Row>
+                <Col sm={10} md={10} lg={8}>
+                  <div className="about-us-content">
+                      <h2>Fatima Darbo</h2>
+                      <h3>CMO</h3>
+                      {/* <h3>Class of 2021</h3> */}
+                      <p>Fatima is studying Managerial Science with a focus in Management and Business Analytics.</p>
+                  </div>
+                </Col>
+              </Row>
+              <Row>
+                <Col sm={10} md={10} lg={8}>
+                  <div className="about-us-content">
+                      <h2>Jeraldo Akinboro</h2>
+                      <h3>COO</h3>
+                      {/* <h3>Class of 2021</h3> */}
+                      <p>Jeraldo is studying Interdisciplinary Studies in Media Entrepreneurship with a focus in Graphic Design.</p>
                   </div>
                 </Col>
               </Row>
               <Row className="about-us-content-last">
                 <Col sm={10} md={10} lg={8}>
                   <div className="about-us-content">
-                      <h2>Deralyn Swiley</h2>
-                      <h3>BCGSU</h3>
-                      <p>This gal is cool as heck reall awesome chill gal.</p>
+                      <h2>Shain Dholakiya</h2>
+                      <h3>CTO</h3>
+                      {/* <h3>Class of 2021</h3> */}
+                      <p>Shain is studying Computer Science with a focus in Database and Knowledge-Based Systems with a minor in Economics.</p>
                   </div>
                 </Col>
               </Row>
