@@ -9,7 +9,7 @@ const Header = ({ siteTitle }) => (
   <div>
     {/* <Navbar fixed="top" expand="lg"> */}
     <Navbar className="navbar-dark" expand="lg">
-      <Navbar.Brand href="/" className="brand">BCGSU</Navbar.Brand>
+      <Navbar.Brand href="/" className="brand">BGSU</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto nav-links">
