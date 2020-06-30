@@ -43,7 +43,7 @@ const AboutUsPage = () => (
                   </div>
                 </Col>
               </Row>
-              <Row className="about-us-content">
+              <Row>
                 <Col sm={10} md={10} lg={8}>
                   <div className="about-us-content">
                       <h2>Shain Dholakiya</h2>
