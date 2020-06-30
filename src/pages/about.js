@@ -63,9 +63,9 @@ const AboutUsPage = () => (
                   </div>
                 </Col>
               </Row>
-              <Row>
+              <Row className="about-us-content-last">
                 <Col sm={10} md={10} lg={8}>
-                  <div className="about-us-content-last">
+                  <div className="about-us-content">
                       <h2>Fatima Darbo</h2>
                       <h3>CMO</h3>
                       {/* <h3>Class of 2021</h3> */}
