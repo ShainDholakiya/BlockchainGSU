@@ -8,13 +8,13 @@ import {Navbar, Nav, Button} from 'react-bootstrap'
 const Header = ({ siteTitle }) => (
   <div>
     {/* <Navbar fixed="top" expand="lg"> */}
-    <Navbar className="navbar-dark" expand="lg">
+    <Navbar bg="dark" variant="dark" expand="lg">
       <Navbar.Brand href="/" className="brand">BGSU</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto nav-links">
           <Nav.Link href="/home">Home</Nav.Link>
-          {/* <Nav.Link href="/content">Content</Nav.Link> */}
+          <Nav.Link href="/content">Content</Nav.Link>
           <Nav.Link href="/resources">Resources</Nav.Link>
           <Nav.Link href="/about">About</Nav.Link>
           <Nav.Link href="/calendar">Calendar</Nav.Link>

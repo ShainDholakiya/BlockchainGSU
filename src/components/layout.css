@@ -7,13 +7,11 @@ body {
   box-sizing: border-box;
 }
 
-.navbar {
-  background: black;
-}
 
 .brand {
   font-size: 30px;
-  font-family: Poppins-Regular;
+  font-family:Poppins;
+  font-weight: 300;
 }
 
 a {
@@ -74,7 +72,8 @@ a {
 .Hero h1 {
   margin:0;
   font-size:96px;
-  font-family: Poppins-SemiBold;
+  font-family: Poppins;
+  font-weight: 600;
   color: #FFFFFF;
   line-height: 115.88px;
 }
@@ -167,6 +166,7 @@ a {
   padding-top: 4rem;
   margin: auto auto auto 46px;
   padding-bottom: 4rem;
+  
 }
 
 .resource-icons {

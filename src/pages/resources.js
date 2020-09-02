@@ -20,7 +20,7 @@ const ResourcesPage = () => (
         <Row>
           <Col sm={{span: 8, ofsset: 4}} md={{span: 7, offset: 5}} lg={{span: 6, offset: 6}}>
             <div className="Resources">
-              <h1><u>Blockchain Resources</u></h1>
+              <h1>Blockchain Resources</h1>
             </div>
           </Col>
         </Row>

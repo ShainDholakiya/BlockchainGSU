@@ -16,7 +16,7 @@ const ContentPage = () => (
         <Row>
           <Col sm={{span: 8}} md={{span: 7}} lg={{span: 6}}>
             <div className="Resources">
-              <h1><u>Latest Content</u></h1>
+              <h1>Latest Content</h1>
             </div>
           </Col>
         </Row>
