@@ -14,7 +14,7 @@ const Header = ({ siteTitle }) => (
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto nav-links">
           <Nav.Link href="/home">Home</Nav.Link>
-          <Nav.Link href="/content">Content</Nav.Link>
+          {/* <Nav.Link href="/content">Content</Nav.Link> */}
           <Nav.Link href="/resources">Resources</Nav.Link>
           <Nav.Link href="/about">About</Nav.Link>
           <Nav.Link href="/calendar">Calendar</Nav.Link>
