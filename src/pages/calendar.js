@@ -35,7 +35,7 @@ const CalendarPage = () => (
                 <Col sm={2} md={2} lg={4}>
                     <div className="calendar-meeting-day">
                         <h2>Mon</h2>
-                        <h2>12</h2>
+                        <h2>14</h2>
                     </div>
                 </Col>
               </Row>
@@ -50,7 +50,7 @@ const CalendarPage = () => (
                 <Col sm={2} md={2} lg={4}>
                     <div className="calendar-meeting-day">
                         <h2>Mon</h2>
-                        <h2>12</h2>
+                        <h2>21</h2>
                     </div>
                 </Col>
               </Row>
@@ -65,7 +65,7 @@ const CalendarPage = () => (
                 <Col sm={2} md={2} lg={4}>
                     <div className="calendar-meeting-day">
                         <h2>Mon</h2>
-                        <h2>12</h2>
+                        <h2>28</h2>
                     </div>
                 </Col>
               </Row>
