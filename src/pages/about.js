@@ -23,8 +23,10 @@ const AboutUsPage = () => (
           <div className="HeroGroup">
             <h1>About Us</h1>
             <p className="description">
-              We do a whole lot of cool stuff. But this is really just a
-              paragraph to simulate what our real about us would look like.
+              BlockchainGSU is a collective of students at GSU who believe in financial freedom thrpugh the use of Cryptocurrency and the 
+              utilization of Blockchain technologies in their various fields of interest! We pride ourselves in offering free, high quality, 
+              and engaging events for anyone interested in learning about this new engaging space. We also strive to deliver our members/community 
+              the resources necessary to breakout and get ahead of the curve. 
             </p>
             <a
               target="_blank"
