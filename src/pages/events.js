@@ -12,7 +12,7 @@ const monthNames = ["January", "February", "March", "April", "May", "June",
 
 const date = new Date().getMonth()
 
-const CalendarPage = () => (
+const EventsPage = () => (
   <Layout>
     <SEO title="Calendar" />
     <div className="Hero Hero-Resources">
@@ -24,7 +24,7 @@ const CalendarPage = () => (
           </Col>
         </Row>
           <Col xs={{span: 10, offset: 1}} sm={{span: 10, offset: 1}} md={{span: 10, offset: 1}} lg={{span: 10, offset: 1}}>
-              <Row className="about-us-content">
+              <Row className="calendar-content">
                 <Col sm={10} md={10} lg={8}>
                     <div>
                         <h2>General Body Meeting</h2>
@@ -39,7 +39,7 @@ const CalendarPage = () => (
                     </div>
                 </Col>
               </Row>
-              <Row className="about-us-content">
+              <Row className="calendar-content">
                 <Col sm={10} md={10} lg={8}>
                     <div>
                         <h2>General Body Meeting</h2>
@@ -54,7 +54,7 @@ const CalendarPage = () => (
                     </div>
                 </Col>
               </Row>
-              <Row className="about-us-content about-us-content-last">
+              <Row className="calendar-content calendar-content-last">
                 <Col sm={10} md={10} lg={8}>
                     <div>
                         <h2>General Body Meeting</h2>
@@ -74,4 +74,4 @@ const CalendarPage = () => (
   </Layout>
 )
 
-export default CalendarPage
+export default EventsPage

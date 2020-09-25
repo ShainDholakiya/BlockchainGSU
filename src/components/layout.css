@@ -7,7 +7,6 @@ body {
   box-sizing: border-box;
 }
 
-
 .brand {
   font-size: 30px;
   font-family:Poppins;
@@ -63,7 +62,7 @@ a {
 }
 
 .HeroGroup {
-  margin: auto auto auto 46px;
+  margin: auto 2rem auto 2rem;
   padding: 294px 0;
   /* max-width: 562px; */
   text-align: left;
@@ -115,11 +114,11 @@ a {
 }
 
 .Hero-AboutUs .description {
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
 }
 
 .Hero-AboutUs a:first-of-type {
-  padding-left: 3rem;
+  padding-left: 1rem;
 }
 
 .Hero-AboutUs a {
@@ -130,28 +129,8 @@ a {
   color: #293a80 !important;
 }
 
-/* .about-us-section-div {
-  margin-left: 4rem;
-} */
-
-.about-us-content {
-  padding-top: 3rem;
-  font-weight: lighter;
-}
-
-.about-us-content-last {
-  padding-bottom: 4rem;
-}
-
-.about-us-content h3 {
-  font-weight: lighter;
-  font-size: 1rem;
-}
-
-.about-us-content p {
-  padding-top: 1rem;
-  font-size: 1rem;
-  line-height: normal;
+.about-us-cards {
+  margin-top: 2rem;
 }
 
 /* Resources Page */
@@ -164,13 +143,13 @@ a {
 .Resources h1 {
   font-size: 65px;
   padding-top: 4rem;
-  margin: auto auto auto 46px;
+  margin: auto auto auto 2rem;
   padding-bottom: 4rem;
   
 }
 
 .resource-icons {
-  width: 15rem;
+  width: 14rem;
   /* background-color: slategrey; */
   margin-bottom: 4rem;
 }
@@ -199,7 +178,7 @@ a {
 } */
 
 
-/* Calendar Page */
+/* Events Page */
 .Calendar h1 {
   font-size: 65px;
   padding-top: 4rem;
@@ -210,3 +189,27 @@ a {
 .calendar-meeting-day {
   padding-top: 1.5rem;
 }
+
+/* .about-us-section-div {
+  margin-left: 4rem;
+} */
+
+.calendar-content {
+  padding-top: 3rem;
+  font-weight: lighter;
+}
+
+/* .calendar-last {
+  padding-bottom: 20rem;
+}  */
+
+/* .about-us-content h3 {
+  font-weight: lighter;
+  font-size: 1rem;
+}
+
+.about-us-content p {
+  padding-top: 1rem;
+  font-size: 1rem;
+  line-height: normal;
+} */

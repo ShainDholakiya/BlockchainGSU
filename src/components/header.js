@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
           {/* <Nav.Link href="/content">Content</Nav.Link> */}
           <Nav.Link href="/resources">Resources</Nav.Link>
           <Nav.Link href="/about">About</Nav.Link>
-          <Nav.Link href="/calendar">Calendar</Nav.Link>
+          <Nav.Link href="/events">Events</Nav.Link>
         </Nav>
         <Nav className="nav-icons">
           <a target="_blank" href="https://pin.gsu.edu/organization/bgsu"><Button className="header-button">Join</Button></a>
