@@ -131,6 +131,8 @@ a {
 
 .about-us-cards {
   margin-top: 2rem;
+  background-color: transparent;
+  border: none;
 }
 
 /* Resources Page */

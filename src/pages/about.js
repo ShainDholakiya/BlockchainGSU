@@ -12,7 +12,11 @@ import {
 import "../components/layout.css"
 import { Row, Col, Container, Card } from "react-bootstrap"
 
-import Tariq from "../images/about_us_tariq.png"
+import Tariq from "../images/about-us-tariq.png"
+import Deralyn from "../images/about-us-deralyn.png"
+import Shain from "../images/about-us-shain.png"
+import Jeremiah from "../images/about-us-jeremiah.png"
+import Hamza from "../images/about-us-hamza.png"
 
 const AboutUsPage = () => (
   <Layout>
@@ -58,33 +62,28 @@ const AboutUsPage = () => (
           </Col>
           <Col xs={12} sm={12} md={12} lg={6}>
             <Card className="about-us-cards">
-              <Card.Img src={Tariq} alt="Card image" />
+              <Card.Img src={Deralyn} alt="Card image" />
             </Card>
           </Col>
         </Row>
         <Row>
           <Col xs={12} sm={12} md={12} lg={6}>
             <Card className="about-us-cards">
-              <Card.Img src={Tariq} alt="Card image" />
+              <Card.Img src={Shain} alt="Card image" />
             </Card>
           </Col>
           <Col xs={12} sm={12} md={12} lg={6}>
             <Card className="about-us-cards">
-              <Card.Img src={Tariq} alt="Card image" />
+              <Card.Img src={Jeremiah} alt="Card image" />
             </Card>
           </Col>
         </Row>
         <Row>
           <Col xs={12} sm={12} md={12} lg={6}>
             <Card className="about-us-cards">
-              <Card.Img src={Tariq} alt="Card image" />
+              <Card.Img src={Hamza} alt="Card image" />
             </Card>
           </Col>
-          {/* <Col xs={12} sm={12} md={12} lg={6}>
-            <Card className="about-us-cards">
-              <Card.Img src={Tariq} alt="Card image" />
-            </Card>
-          </Col> */}
         </Row>
       </Container>
     </div>
