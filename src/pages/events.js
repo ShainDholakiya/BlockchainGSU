@@ -23,49 +23,84 @@ const EventsPage = () => (
             </div>
           </Col>
         </Row>
-          <Col xs={{span: 10, offset: 1}} sm={{span: 10, offset: 1}} md={{span: 10, offset: 1}} lg={{span: 10, offset: 1}}>
+          <Col xs={{span: 10, offset: 1}} sm={{span: 10, offset: 1}}  md={{span: 10, offset: 1}}  lg={{span: 10, offset: 1}} >
               <Row className="calendar-content">
-                <Col sm={10} md={10} lg={8}>
+                <Col xs={12} sm={8} md={8} lg={6}>
                     <div>
-                        <h2>General Body Meeting</h2>
-                        <h3>BCGSU</h3>
-                        <p>Pull up for some vibes and good food.</p>
+                        <h2>Debate Club: Is The DeFi Craze Just The ICO Boom All Over Again?</h2>
+                        {/* <h3>BCGSU</h3> */}
+                        {/* <p>Pull up for some vibes and good food.</p> */}
+                        <a target="_blank" href="https://applications.zoom.us/addon/invitation/detail?meetingUuid=YfUTS%2Fo8Q6ujiwKdr1TH3g%3D%3D&signature=4011ecf645d90617e4d86916df2bb4c352212073050bd4867bc693b4199b1107">Meeting Invitation</a>
                     </div>
                 </Col>
-                <Col sm={2} md={2} lg={4}>
+                <Col xs={{span: 12, offset: 0}} sm={{span: 2, offset: 1}} md={{span: 2, offset: 1}} lg={{span: 2, offset: 2}}>
                     <div className="calendar-meeting-day">
-                        <h2>Mon</h2>
-                        <h2>14</h2>
+                        <h2>Thu</h2>
+                        <h2>1</h2>
                     </div>
                 </Col>
               </Row>
               <Row className="calendar-content">
-                <Col sm={10} md={10} lg={8}>
+                <Col xs={12} sm={8} md={8} lg={6}>
                     <div>
-                        <h2>General Body Meeting</h2>
-                        <h3>BCGSU</h3>
-                        <p>Pull up for some vibes and good food.</p>
+                        <h2>Blockchain Use-Case Series</h2>
+                        {/* <h3>BCGSU</h3> */}
+                        {/* <p>Pull up for some vibes and good food.</p> */}
+                        <a target="_blank" href="">Meeting Invitation</a>
                     </div>
                 </Col>
-                <Col sm={2} md={2} lg={4}>
+                <Col xs={{span: 12, offset: 0}} sm={{span: 2, offset: 1}} md={{span: 2, offset: 1}} lg={{span: 2, offset: 2}}>
                     <div className="calendar-meeting-day">
                         <h2>Mon</h2>
-                        <h2>21</h2>
+                        <h2>12</h2>
+                    </div>
+                </Col>
+              </Row>
+              <Row className="calendar-content">
+                <Col xs={12} sm={8} md={8} lg={6}>
+                    <div>
+                        <h2>Debate Club: Is The DeFi Craze Just The ICO Boom All Over Again?</h2>
+                        {/* <h3>BCGSU</h3> */}
+                        {/* <p>Pull up for some vibes and good food.</p> */}
+                        <a target="_blank" href="https://applications.zoom.us/addon/invitation/detail?meetingUuid=YfUTS%2Fo8Q6ujiwKdr1TH3g%3D%3D&signature=4011ecf645d90617e4d86916df2bb4c352212073050bd4867bc693b4199b1107">Meeting Invitation</a>
+                    </div>
+                </Col>
+                <Col xs={{span: 12, offset: 0}} sm={{span: 2, offset: 1}} md={{span: 2, offset: 1}} lg={{span: 2, offset: 2}}>
+                    <div className="calendar-meeting-day">
+                        <h2>Thu</h2>
+                        <h2>15</h2>
+                    </div>
+                </Col>
+              </Row>
+              <Row className="calendar-content">
+                <Col xs={12} sm={8} md={8} lg={6}>
+                    <div>
+                        <h2>Blockchain Use-Case Series</h2>
+                        {/* <h3>BCGSU</h3> */}
+                        {/* <p>Pull up for some vibes and good food.</p> */}
+                        <a target="_blank" href="">Meeting Invitation</a>
+                    </div>
+                </Col>
+                <Col xs={{span: 12, offset: 0}} sm={{span: 2, offset: 1}} md={{span: 2, offset: 1}} lg={{span: 2, offset: 2}}>
+                    <div className="calendar-meeting-day">
+                        <h2>Mon</h2>
+                        <h2>26</h2>
                     </div>
                 </Col>
               </Row>
               <Row className="calendar-content calendar-content-last">
-                <Col sm={10} md={10} lg={8}>
+                <Col xs={12} sm={8} md={8} lg={6}>
                     <div>
-                        <h2>General Body Meeting</h2>
-                        <h3>BCGSU</h3>
-                        <p>Pull up for some vibes and good food.</p>
+                        <h2>Debate Club: Is The DeFi Craze Just The ICO Boom All Over Again?</h2>
+                        {/* <h3>BCGSU</h3> */}
+                        {/* <p>Pull up for some vibes and good food.</p> */}
+                        <a target="_blank" href="https://applications.zoom.us/addon/invitation/detail?meetingUuid=YfUTS%2Fo8Q6ujiwKdr1TH3g%3D%3D&signature=4011ecf645d90617e4d86916df2bb4c352212073050bd4867bc693b4199b1107">Meeting Invitation</a>
                     </div>
                 </Col>
-                <Col sm={2} md={2} lg={4}>
+                <Col xs={{span: 12, offset: 0}} sm={{span: 2, offset: 1}} md={{span: 2, offset: 1}} lg={{span: 2, offset: 2}}>
                     <div className="calendar-meeting-day">
-                        <h2>Mon</h2>
-                        <h2>28</h2>
+                        <h2>Thu</h2>
+                        <h2>29</h2>
                     </div>
                 </Col>
               </Row>
