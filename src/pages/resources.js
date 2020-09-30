@@ -64,7 +64,7 @@ const ResourcesPage = () => (
                 </a>
             </Col>
             <Col xs={6} sm={6} md={6} lg={4}>
-                <a target="_blank" href="https://discord.gg/aJqZuYT">
+                <a target="_blank" href="https://discord.com/invite/EQnAG3D">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={discord} />
                     </Card>
