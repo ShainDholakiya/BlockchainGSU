@@ -23,7 +23,7 @@ const AboutUsPage = () => (
     <SEO title="About Us" />
     <div className="Hero-AboutUs Hero">
       <Row>
-        <Col xs={12} sm={12} md={{ offset: 2, span: 10 }} lg={{ offset: 4, span: 5 }}>
+        <Col xs={12} sm={12} md={{ offset: 2, span: 10 }} lg={{ offset: 4, span: 6 }}>
           <div className="HeroGroup">
             <h1>About Us</h1>
             <p className="description">
