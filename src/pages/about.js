@@ -36,19 +36,19 @@ const AboutUsPage = () => (
               target="_blank"
               href="https://www.linkedin.com/company/blockchaingsu/about/"
             >
-              <FontAwesomeIcon icon={faLinkedinIn} size="4x" />
+              <FontAwesomeIcon icon={faLinkedinIn} size="3x" />
             </a>
             <a target="_blank" href="https://www.instagram.com/gsublockchain/">
-              <FontAwesomeIcon icon={faInstagram} size="4x" />
+              <FontAwesomeIcon icon={faInstagram} size="3x" />
             </a>
             <a
               target="_blank"
               href="https://www.youtube.com/channel/UCUqBF-dLJDR2oe0GeicKVnA"
             >
-              <FontAwesomeIcon icon={faYoutube} size="4x" />
+              <FontAwesomeIcon icon={faYoutube} size="3x" />
             </a>
             <a target="_blank" href="https://twitter.com/blockchaingsu">
-              <FontAwesomeIcon icon={faTwitter} size="4x" />
+              <FontAwesomeIcon icon={faTwitter} size="3x" />
             </a>
           </div>
         </Col>
