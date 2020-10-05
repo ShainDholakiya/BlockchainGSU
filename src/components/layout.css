@@ -9,7 +9,8 @@ body {
 
 .brand {
   font-size: 30px;
-  font-family: Poppins-Regular;
+  font-family:Poppins;
+  font-weight: 300;
 }
 
 a {
@@ -17,9 +18,10 @@ a {
 }
 
 .header-button {
-  margin-left:200px;
+  /* margin-left:200px; */
   padding: 6px 29px;
   background: #293a80;
+  /* background: #547EC5; */
   border-radius: 18px;
   border:none;
   font: weight 500;
@@ -50,16 +52,17 @@ a {
 }
 
 .Hero {
-  height: 100vh;
+  height: 100%;
   width: 100%;
   background: url('../images/bg.png');
   background-size: cover;
   background-position: center;
   color: white;
+  padding-bottom: 7.5rem;
 }
 
 .HeroGroup {
-  margin: auto auto auto 46px;
+  margin: auto 2rem auto 2rem;
   padding: 294px 0;
   /* max-width: 562px; */
   text-align: left;
@@ -68,7 +71,8 @@ a {
 .Hero h1 {
   margin:0;
   font-size:96px;
-  font-family: Poppins-SemiBold;
+  font-family: Poppins;
+  font-weight: 600;
   color: #FFFFFF;
   line-height: 115.88px;
 }
@@ -109,8 +113,12 @@ a {
   background-position: center;
 }
 
+.Hero-AboutUs .description {
+  padding-bottom: 2rem;
+}
+
 .Hero-AboutUs a:first-of-type {
-  padding-left: 6rem;
+  padding-left: 1rem;
 }
 
 .Hero-AboutUs a {
@@ -121,20 +129,10 @@ a {
   color: #293a80 !important;
 }
 
-.about-us-content {
-  padding-top: 8rem;
-  font-weight: lighter;
-}
-
-.about-us-content h3 {
-  font-weight: lighter;
-  font-size: 1rem;
-}
-
-.about-us-content p {
-  padding-top: 1rem;
-  font-size: 1rem;
-  line-height: normal;
+.about-us-cards {
+  margin-top: 2rem;
+  background-color: transparent;
+  border: none;
 }
 
 /* Resources Page */
@@ -147,67 +145,73 @@ a {
 .Resources h1 {
   font-size: 65px;
   padding-top: 4rem;
-  margin: auto auto auto 46px;
-}
-
-.resource-icon-row {
-  padding: 2rem 0rem 4rem 0rem;
+  margin: auto auto auto 2rem;
+  padding-bottom: 4rem;
+  
 }
 
 .resource-icons {
-  width: 250px;
-  background-color: slategrey;
+  width: 14rem;
+  /* background-color: slategrey; */
+  margin-bottom: 4rem;
 }
+
+/* .resources-container {
+  padding-bottom: 7.5rem;
+} */
 
 /* Content Page */
-.Hero-Content {
-  background: url('../images/BG-Content.png');
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-}
-
-.Content-Header {
-  padding-top: 8rem;
-
-}
-
-.content-heading {
-  padding-bottom: 1.5rem;
-}
-
-.Content h1 {
-  font-size: 2.369em;
-  padding-top: 4rem;
-  margin:102px auto auto;
-}
-
-.content-card-row {
-  padding-bottom:1.5rem;
-}
-
-.content-card {
-  background: none;
-  padding-bottom: 1.5rem;
+.article-icons {
+  margin-bottom: 4rem;
   border: none;
 }
-.card-img {
+
+.card-description {
+  position: absolute;
+  bottom: 5px;
 }
 
-.content-card-title {
-  font-weight:Semi-Bold;
-  font-size:18px;
+.card-description h3 {
+  font-weight: 600;
 }
 
-.card-title {
-  padding-top:110px;
-  font-size:1.333em;
-}
-.card-body {
-  padding-left: 0;
+/* .card-description-background {
+  background: #3C3C3C;
+} */
+
+
+/* Events Page */
+.Calendar h1 {
+  font-size: 65px;
+  padding-top: 4rem;
+  margin: auto auto auto 46px;
+  /* padding-bottom: 2rem; */
 }
 
-.card-text {
-  padding:0;
-
+.calendar-meeting-day {
+  padding-top: 1rem;
 }
+
+/* .about-us-section-div {
+  margin-left: 4rem;
+} */
+
+.calendar-content {
+  padding-top: 3rem;
+  font-weight: lighter;
+}
+
+/* .calendar-last {
+  padding-bottom: 20rem;
+}  */
+
+/* .about-us-content h3 {
+  font-weight: lighter;
+  font-size: 1rem;
+}
+
+.about-us-content p {
+  padding-top: 1rem;
+  font-size: 1rem;
+  line-height: normal;
+} */

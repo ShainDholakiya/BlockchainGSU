@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import "../components/layout.css"
 import { Row, Col, Button } from "react-bootstrap";
 
-const IndexPage = () => (
+const HomePage = () => (
   <Layout>
     <SEO title="Home" />
       <div className="Hero">
@@ -14,7 +14,7 @@ const IndexPage = () => (
           <Col sm={9} md={7} lg={5}>
             <div className="HeroGroup">
               <h1>Blockchain GSU</h1>
-              <p>Georgia State University’s Blockchain club providing the latest and greatest information on all things blockchain.</p>
+              <p>Georgia State University’s Blockchain club providing the lastest and greatest information on all things blockchain.</p>
               <span></span>
               <a target="_blank" href="https://pin.gsu.edu/organization/bgsu" className="continue">Join</a>
             </div>
@@ -24,4 +24,4 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default IndexPage
+export default HomePage
