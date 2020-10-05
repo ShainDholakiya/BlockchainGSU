@@ -26,21 +26,21 @@ const ResourcesPage = () => (
         </Row>
         <Container>
           <Row>
-            <Col xs={6} sm={6} md={6} lg={4}>
+            <Col xs={12} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://hackernoon.com/">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={hackernoon} />
                     </Card>
                 </a>
             </Col>
-            <Col xs={6} sm={6} md={6} lg={4}>
+            <Col xs={12} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://medium.com/">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={medium} />
                     </Card>
                 </a>
             </Col>
-            <Col xs={6} sm={6} md={6} lg={4}>
+            <Col xs={12} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://www.youtube.com/channel/UCUqBF-dLJDR2oe0GeicKVnA">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={youtube} />
@@ -49,21 +49,21 @@ const ResourcesPage = () => (
             </Col>
             {/* </Row>
             <Row> */}
-            <Col xs={6} sm={6} md={6} lg={4}>
+            <Col xs={12} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://www.reddit.com/">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={reddit} />
                     </Card>
                 </a>
             </Col>
-            <Col xs={6} sm={6} md={6} lg={4}>
+            <Col xs={12} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://www.coindesk.com/">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={coindesk} />
                     </Card>
                 </a>
             </Col>
-            <Col xs={6} sm={6} md={6} lg={4}>
+            <Col xs={12} sm={6} md={6} lg={4}>
                 <a target="_blank" href="https://discord.com/invite/EQnAG3D">
                     <Card className="resource-icons">
                         <Card.Img variant="top" src={discord} />

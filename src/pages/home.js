@@ -11,7 +11,7 @@ const HomePage = () => (
     <SEO title="Home" />
       <div className="Hero">
         <Row>
-          <Col sm={9} md={7} lg={5}>
+          <Col xs={12} sm={9} md={7} lg={5}>
             <div className="HeroGroup">
               <h1>Blockchain GSU</h1>
               <p>Georgia State University’s Blockchain club providing the lastest and greatest information on all things blockchain.</p>
