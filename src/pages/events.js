@@ -69,6 +69,34 @@ const EventsPage = () => (
                     </div>
                 </Col>
               </Row>
+              <Row className="calendar-content">
+                <Col xs={12} sm={8} md={8} lg={6}>
+                    <div>
+                        {/* <h2>Blockchain Use-Case Series</h2>
+                        <a target="_blank" href="">Meeting Invitation</a> */}
+                    </div>
+                </Col>
+                <Col xs={{span: 12, offset: 0}} sm={{span: 2, offset: 1}} md={{span: 2, offset: 1}} lg={{span: 2, offset: 2}}>
+                    <div className="calendar-meeting-day">
+                        {/* <h2>Mon</h2>
+                        <h2>26</h2> */}
+                    </div>
+                </Col>
+              </Row>
+              <Row className="calendar-content">
+                <Col xs={12} sm={8} md={8} lg={6}>
+                    <div>
+                        {/* <h2>Blockchain Use-Case Series</h2>
+                        <a target="_blank" href="">Meeting Invitation</a> */}
+                    </div>
+                </Col>
+                <Col xs={{span: 12, offset: 0}} sm={{span: 2, offset: 1}} md={{span: 2, offset: 1}} lg={{span: 2, offset: 2}}>
+                    <div className="calendar-meeting-day">
+                        {/* <h2>Mon</h2>
+                        <h2>26</h2> */}
+                    </div>
+                </Col>
+              </Row>
           </Col>
       </div>
   </Layout>
