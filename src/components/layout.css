@@ -141,7 +141,6 @@ a {
   background: url('../images/BG-Content.png');
   background-size: cover;
   background-position: center;
-  position: fixed;
 }
 
 .Resources h1 {
