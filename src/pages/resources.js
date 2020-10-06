@@ -75,6 +75,9 @@ const ResourcesPage = () => (
               </Card>
             </a>
           </Col>
+          <Col xs={12} sm={6} md={6} lg={4}>
+           
+          </Col>
         </Row>
       </Container>
     </div>

@@ -57,8 +57,9 @@ a {
   background: url('../images/bg.png');
   background-size: cover;
   background-position: center;
+  overflow: hidden;
   color: white;
-  padding-bottom: 7.5rem;
+  /* padding-bottom: 7.5rem; */
 }
 
 .HeroGroup {
@@ -140,6 +141,7 @@ a {
   background: url('../images/BG-Content.png');
   background-size: cover;
   background-position: center;
+  position: fixed;
 }
 
 .Resources h1 {
