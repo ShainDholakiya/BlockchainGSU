@@ -47,7 +47,7 @@ const EventsPage = () => (
               <h2>Blockchain 101 Workshop</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
               <a target="_blank" href="https://www.eventbrite.com/e/blockchain-101-workshop-tickets-124183108019?aff=GeneralPublic">
-                Meeting Invitation
+                Register Here
               </a>
             </div>
           </Col>
@@ -69,7 +69,7 @@ const EventsPage = () => (
               <h2>Blockchain of the Month</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
               <a target="_blank" href="">
-                Meeting Invitation
+                Register Here
               </a>
             </div>
           </Col>
@@ -91,7 +91,7 @@ const EventsPage = () => (
               <h2>Blockchain Use-Case Series</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
               <a target="_blank" href="">
-                Meeting Invitation
+                Register Here
               </a>
             </div>
           </Col>
