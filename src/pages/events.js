@@ -66,9 +66,9 @@ const EventsPage = () => (
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>Blockchain of the Month</h2>
+              <h2>Blockchain of the Month: Polkadot</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
-              <a target="_blank" href="">
+              <a target="_blank" href="https://linktr.ee/BlockchainGSU">
                 Register Here
               </a>
             </div>
