@@ -44,9 +44,9 @@ const EventsPage = () => (
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>Blockchain 101 Workshop</h2>
+              <h2>Crypto 101 Workshop</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
-              <a target="_blank" href="https://www.eventbrite.com/e/blockchain-101-workshop-tickets-124183108019?aff=GeneralPublic">
+              <a target="_blank" href="https://www.eventbrite.com/e/crypto-101-workshop-tickets-127490171535?aff=GeneralOnly">
                 Register Here
               </a>
             </div>
@@ -59,16 +59,16 @@ const EventsPage = () => (
           >
             <div className="calendar-meeting-day">
               <h2>Mon</h2>
-              <h2>12</h2>
+              <h2>9</h2>
             </div>
           </Col>
         </Row>
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>Blockchain of the Month: Polkadot</h2>
+              <h2>Crypto of the Month</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
-              <a target="_blank" href="https://linktr.ee/BlockchainGSU">
+              <a target="_blank" href="">
                 Register Here
               </a>
             </div>
@@ -81,7 +81,7 @@ const EventsPage = () => (
           >
             <div className="calendar-meeting-day">
               <h2>Mon</h2>
-              <h2>19</h2>
+              <h2>16</h2>
             </div>
           </Col>
         </Row>
@@ -103,7 +103,7 @@ const EventsPage = () => (
           >
             <div className="calendar-meeting-day">
               <h2>Mon</h2>
-              <h2>26</h2>
+              <h2>23</h2>
             </div>
           </Col>
         </Row>
