@@ -66,9 +66,9 @@ const EventsPage = () => (
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>Blocklete Design Spring</h2>
+              <h2>Blocklete Design Spring @ 5PM EST</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
-              <a target="_blank" href="">
+              <a target="_blank" href="https://zoom.us/j/99179642549?pwd=a2dIZElzQ0QvUC9rR2IwTXhiV3czQT09">
                 Register Here
               </a>
             </div>
@@ -112,7 +112,7 @@ const EventsPage = () => (
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>Among Us Game Night</h2>
+              <h2>Among Us Game Night @ 7PM EST</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
               <a target="_blank" href="">
                 Register Here
