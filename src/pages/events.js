@@ -66,7 +66,7 @@ const EventsPage = () => (
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>Crypto of the Month</h2>
+              <h2>Blocklete Design Spring</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
               <a target="_blank" href="">
                 Register Here
@@ -85,10 +85,34 @@ const EventsPage = () => (
             </div>
           </Col>
         </Row>
+
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>Blockchain Use-Case Series</h2>
+              <h2>(Crypto of the Month) BAT - BRAVE</h2>
+              {/* <p>Pull up for some vibes and good food.</p> */}
+              <a target="_blank" href="">
+                Register Here
+              </a>
+            </div>
+          </Col>
+          <Col
+            xs={{ span: 12, offset: 0 }}
+            sm={{ span: 2, offset: 1 }}
+            md={{ span: 2, offset: 1 }}
+            lg={{ span: 2, offset: 2 }}
+          >
+            <div className="calendar-meeting-day">
+              <h2>Wed</h2>
+              <h2>18</h2>
+            </div>
+          </Col>
+        </Row>
+
+        <Row className="calendar-content">
+          <Col xs={12} sm={8} md={8} lg={6}>
+            <div>
+              <h2>Among Us Game Night</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
               <a target="_blank" href="">
                 Register Here
