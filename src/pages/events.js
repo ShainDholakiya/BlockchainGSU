@@ -69,7 +69,7 @@ const EventsPage = () => (
               <h2>Blocklete Design Spring @ 5PM EST</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
               <a target="_blank" href="https://zoom.us/j/99179642549?pwd=a2dIZElzQ0QvUC9rR2IwTXhiV3czQT09">
-                Register Here
+                Join Here
               </a>
             </div>
           </Col>
@@ -89,10 +89,10 @@ const EventsPage = () => (
         <Row className="calendar-content">
           <Col xs={12} sm={8} md={8} lg={6}>
             <div>
-              <h2>(Crypto of the Month) BAT - BRAVE</h2>
+              <h2>(Crypto of the Month) BAT</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
-              <a target="_blank" href="">
-                Register Here
+              <a target="_blank" href="https://basicattentiontoken.org/">
+                Learn More
               </a>
             </div>
           </Col>
