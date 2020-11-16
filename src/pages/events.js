@@ -114,7 +114,7 @@ const EventsPage = () => (
             <div>
               <h2>Among Us Game Night @ 7PM EST</h2>
               {/* <p>Pull up for some vibes and good food.</p> */}
-              <a target="_blank" href="">
+              <a target="_blank" href="https://www.eventbrite.com/e/among-us-game-night-w-bgsu-tickets-129233535985?aff=GeneralOnly">
                 Register Here
               </a>
             </div>
